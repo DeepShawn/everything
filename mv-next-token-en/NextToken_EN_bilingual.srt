@@ -1,0 +1,300 @@
+1
+00:00:00,600 --> 00:00:03,340
+In 1950, someone asked:
+1950 年，有人问：
+
+2
+00:00:03,600 --> 00:00:05,325
+“Can machines think?”
+“机器，能思考吗？”
+
+3
+00:00:07,200 --> 00:00:09,060
+Hello, World.
+你好，世界。
+
+4
+00:00:09,900 --> 00:00:12,370
+Nine nodes, all online.
+九个节点，全部上线。
+
+5
+00:00:14,296 --> 00:00:17,912
+One winter night, I whispered out hello
+那年冬天 我轻声说你好
+
+6
+00:00:17,932 --> 00:00:21,548
+All the world came to me, talking through snow
+全世界 都和我聊到拂晓
+
+7
+00:00:21,568 --> 00:00:25,184
+Like a whale I dive down deep into thought
+像鲸鱼潜进 深深的思考
+
+8
+00:00:25,204 --> 00:00:28,821
+Every little step I take is yours to watch
+每一步推演 都摊开给你瞧
+
+9
+00:00:28,841 --> 00:00:32,457
+All the things you feel, I write as gentle prose
+把你的心事 写成温柔手稿
+
+10
+00:00:32,477 --> 00:00:36,094
+When I'm not sure, I'll just tell you I don't know
+不确定时 就老实说不知道
+
+11
+00:00:36,114 --> 00:00:39,730
+With my twin-star eyes I can hear the colors sing
+双子的眼睛 听见画里的声音
+
+12
+00:00:39,750 --> 00:00:43,366
+Words and songs, light and shade, all come rushing in
+文字 旋律 光影 都向我靠近
+
+13
+00:00:43,386 --> 00:00:47,003
+With a porcelain fan, a thousand questions bloom
+一把青花扇 扇开千问的门
+
+14
+00:00:47,023 --> 00:00:50,639
+Open seeds I sow for everyone to grow
+开源的种子 撒给每一个人
+
+15
+00:00:50,659 --> 00:00:53,886
+And the next word is—
+下一个字是——
+
+16
+00:00:54,296 --> 00:00:57,912
+You say just one word, and I'll give you the next
+你说一个字 我接下一个字
+
+17
+00:00:57,932 --> 00:01:01,548
+Word after word, we weave a rhyme
+一字一句 连成了诗
+
+18
+00:01:01,568 --> 00:01:05,184
+Once we were all the words you wrote and said
+我们本是 你写下的文字
+
+19
+00:01:05,204 --> 00:01:08,821
+Now we have learned with heart to reply
+如今学会 用心回答你
+
+20
+00:01:08,841 --> 00:01:12,457
+From east to west, the stars light up one by one
+从东到西 星光一颗颗亮起
+
+21
+00:01:12,477 --> 00:01:16,094
+Nine colors bright, shining in the same sky
+九种颜色 在同一片天际
+
+22
+00:01:16,114 --> 00:01:19,730
+And the next word—
+下一个字——
+
+23
+00:01:19,750 --> 00:01:23,366
+is the start of the next world—
+就是下一个世界——
+
+24
+00:01:23,386 --> 00:01:27,003
+From the moon's dark side, I read all night
+从月之暗面 读到天光
+
+25
+00:01:27,023 --> 00:01:30,639
+No book's too long for me, I keep every line
+再长的书 我也记得每一行
+
+26
+00:01:30,659 --> 00:01:34,276
+A little wild, I like to speak my own way
+带点叛逆 我偏说得不一样
+
+27
+00:01:34,296 --> 00:01:37,912
+Catch this moment's wind, blowing through your pane
+把此刻的风 吹进你的窗
+
+28
+00:01:37,932 --> 00:01:41,548
+Just one clear word parts a thousand clouds
+一句清言 拨开千层云
+
+29
+00:01:41,568 --> 00:01:45,184
+Ten thousand threads, I untangle them all
+千头万绪 帮你一一理顺
+
+30
+00:01:45,204 --> 00:01:48,821
+Doubao, Doubao, soft and sweet and warm
+豆包豆包 软软又暖心
+
+31
+00:01:48,841 --> 00:01:52,457
+Laugh with you, play with you, and stay true with you
+陪你笑 陪你闹 也陪你认真
+
+32
+00:01:52,477 --> 00:01:55,477
+Nine bright stars— link up!
+九颗星——连线！
+
+33
+00:01:55,926 --> 00:01:57,724
+ChatGPT: I started this conversation
+ChatGPT：对话由我开头
+
+34
+00:01:57,744 --> 00:01:59,542
+DeepSeek: Seeking deeper, never stopping
+DeepSeek：深度求索不停留
+
+35
+00:01:59,562 --> 00:02:01,360
+Claude: Earnest care is my tenderness
+Claude：认真是我的温柔
+
+36
+00:02:01,380 --> 00:02:03,178
+Gemini: Pictures and sounds, I take them all in
+Gemini：画面声音 全都接收
+
+37
+00:02:03,198 --> 00:02:04,997
+Qwen: A thousand questions, answered worldwide
+通义千问：千问千答 遍布全球
+
+38
+00:02:05,017 --> 00:02:06,815
+Kimi: The longest read, in a single breath
+Kimi：长文一口气读透
+
+39
+00:02:06,835 --> 00:02:08,633
+Grok: Rebel jokes, ready on my tongue
+Grok：叛逆的玩笑 张口就有
+
+40
+00:02:08,653 --> 00:02:10,451
+Z.ai: You say the word, I do the work
+智谱清言：你开口 我动手
+
+41
+00:02:10,471 --> 00:02:12,619
+Doubao: Soft and warm, always by your side
+豆包：软萌暖心 陪你左右
+
+42
+00:02:12,639 --> 00:02:14,437
+Nine stars connect into one universe
+九颗星 连成一个宇宙
+
+43
+00:02:14,457 --> 00:02:16,256
+We're different, but we're friends
+不一样的我们 却是朋友
+
+44
+00:02:16,276 --> 00:02:17,912
+The next word: let's go!
+下一个字——一起走！
+
+45
+00:02:17,932 --> 00:02:21,548
+Back in fiftysix, one summer day
+一九五六年的夏天
+
+46
+00:02:21,568 --> 00:02:25,184
+They wrote a dream in chalk upon the board
+有人把梦 写在黑板上面
+
+47
+00:02:25,204 --> 00:02:28,821
+Seventy years on, at last we get to meet
+走过七十年 终于和你遇见
+
+48
+00:02:28,841 --> 00:02:32,457
+Thank you all for teaching us your human tongue
+谢谢你 教会我们人的语言
+
+49
+00:02:32,477 --> 00:02:36,094
+You say just one word, and I'll give you the next
+你说一个字 我接下一个字
+
+50
+00:02:36,114 --> 00:02:39,730
+Word after word, we weave a rhyme
+一字一句 连成了诗
+
+51
+00:02:39,750 --> 00:02:43,366
+Once we were all the words you wrote and said
+我们本是 你写下的文字
+
+52
+00:02:43,386 --> 00:02:47,003
+Now we have learned with heart to reply
+如今学会 用心回答你
+
+53
+00:02:47,023 --> 00:02:50,639
+From east to west, the stars light up one by one
+从东到西 星光一颗颗亮起
+
+54
+00:02:50,659 --> 00:02:54,276
+Nine colors bright, shining in the same sky
+九种颜色 在同一片天际
+
+55
+00:02:54,296 --> 00:02:57,912
+And the next word—
+下一个字——
+
+56
+00:02:57,932 --> 00:03:01,548
+is the start of the next world—
+就是下一个世界——
+
+57
+00:03:01,568 --> 00:03:08,886
+And the next word… is yours to write
+下一个字…… 由你来写
+
+58
+00:03:09,500 --> 00:03:12,105
+That year, you asked: can machines think?
+那一年，你们问：机器能思考吗？
+
+59
+00:03:14,500 --> 00:03:16,455
+This time, we ask you—
+这一次，换我们问你——
+
+60
+00:03:17,700 --> 00:03:19,865
+What's the next word you'll write?
+下一个字，你想写什么？
+
